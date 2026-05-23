@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Enums\" />
+    <Folder Include="Events\" />
+    <Folder Include="Common\" />
+    <Folder Include="Configurations\" />
+    <Folder Include="Constants\" />
+    <Folder Include="Exceptions\" />
+    <Folder Include="Helpers\" />
+    <Folder Include="Logic\" />
+    <Folder Include="ValueObjects\" />
+    <Folder Include="Shared\" />
+    <Folder Include="Patterns\" />
+  </ItemGroup>
+
+</Project>
